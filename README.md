@@ -17,11 +17,13 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+
+✍️ In my free time, I am dedicated to game development as hobbies and side hustles.
+
+💻 Learning web development on your own means studying and practicing creating websites and applications.
+
+💼 I'm actively seeking internship or job opportunities, eager to leverage my skills and contribute to a dynamic team.
 
 <br><br>
 
@@ -79,9 +81,17 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-
 <br>
+<p align="center">
+<a href="https://github.com/AVS1508" >
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+
+
 <br>
 <br>
 
